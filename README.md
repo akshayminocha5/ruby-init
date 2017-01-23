@@ -6,7 +6,8 @@ Koans can be checked for completion by running the following command inside the 
 
 	> ruby path_to_enlightenment.rb 
 
-Greed game can be played by running the following command in the 'greed_problem' directory - - - 
+Greed game can be played by running the following command in the 'greed_problem' directory - - -
+ 
 	> ruby game.rb
 
 Rover can be played by running the following command in the 'rover_problem' directory - - -
